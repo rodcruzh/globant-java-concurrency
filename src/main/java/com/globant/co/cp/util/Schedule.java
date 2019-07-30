@@ -33,8 +33,11 @@ public class Schedule {
          }
       }
 
-      System.out.println("Schedule: " + schedule);
       return schedule;
+   }
+
+   public static void printSchedule() {
+      System.out.println("Schedule: " + schedule);
    }
 
 }
