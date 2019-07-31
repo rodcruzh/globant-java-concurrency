@@ -7,6 +7,6 @@
 
 ## Run
 
-`mvn clean install`
-`java -cp target\java-concurrency-1.0-SNAPSHOT.jar com.globant.co.cp.App`
-Ctrl + C to exit
+* Open a terminal and run `mvn clean install`
+* Then run `java -cp target\java-concurrency-1.0-SNAPSHOT.jar com.globant.co.cp.App`
+* Press Ctrl + C to exit
