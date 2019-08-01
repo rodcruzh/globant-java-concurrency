@@ -1,5 +1,7 @@
 # Globant Java Concurrency
 
+This workshop is made by Rodrigo Cruz H as a requisite to accomplish the goal set on Globant Career Path, for individual skill assessment to Java Developers.
+
 ## Prerequisites
 
 * Java Development Kit 1.8

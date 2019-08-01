@@ -9,10 +9,8 @@ public class App {
    public static void main(String[] args) {
       System.out.println("Globant Acamica Thread Workshop");
       App app = new App();
-      String option = "";
-      option = app.chooseOption();
+      String option = app.chooseOption();
       app.runThreadWorkshop(option);
-      System.exit(1);
    }
 
    private String chooseOption() {
@@ -68,11 +66,8 @@ public class App {
             workshop.runLatchExample02();
             break;
          default:
-            System.out.println("That option is not valid!");
             break;
       }
-
-      System.out.println("Option finished");
    }
 
 }
