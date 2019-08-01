@@ -25,7 +25,7 @@ public class App {
       System.out.println("9. Latch");
       System.out.println("10. Barrier");
 
-      System.out.print("Enter a number 1 to 10 to run the corresponding example ('q' for exit): ");
+      System.out.print("Enter a number 1 to 10 to run the corresponding example: ");
 
       Scanner keyboard = new Scanner(System.in);
       return keyboard.next();
